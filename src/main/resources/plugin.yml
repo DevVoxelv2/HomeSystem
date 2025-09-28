@@ -3,7 +3,7 @@ main: de.example.homesystem.HomeSystemPlugin
 version: 1.0.0
 api-version: 1.20
 authors:
-  - ChatGPT
+  - DerGamer09
 softdepend:
   - Essentials
 commands:
