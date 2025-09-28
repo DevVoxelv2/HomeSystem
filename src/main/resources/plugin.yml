@@ -1,0 +1,15 @@
+name: HomeSystem
+main: de.example.homesystem.HomeSystemPlugin
+version: 1.0.0
+api-version: 1.20
+authors:
+  - ChatGPT
+softdepend:
+  - Essentials
+commands:
+  home:
+    description: Öffnet das Home Menü.
+    usage: /home
+  homes:
+    description: Öffnet das Home Menü.
+    usage: /homes
